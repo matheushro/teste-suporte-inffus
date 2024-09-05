@@ -22,14 +22,15 @@ O objetivo deste repositório é apresentar um teste para a contratação de um 
    - Implementar um menu de navegação para facilitar a transição entre a lista de cadastro de empresas e a listagem
 
 5. **Tecnologias Utilizadas**
-   - Utilizar PHP, JavaScript e Mysql para o desenvolvimento da aplicação.
+   - Utilizar PHP, JavaScript e Mysql para o desenvolvimento da aplicação
+   - Utilizar Tailwindcss ou Bootstrap para estilização
 
 6. **Banco de dados**
    - Salvar informações no banco de dados utilizando mysql
 
 7. **Documento**
    - Desenvolver um documento listando os bugs que teve durante o desenvolvimento, como os encontrou e como resolveu.
-   - Listar pesquisas realizadas durante o processo.
+   - Listar pesquisas realizadas durante o processo
 
 ## Foco
 O candidato deve focar na utilização de boas práticas de programação, como por exemplo:
